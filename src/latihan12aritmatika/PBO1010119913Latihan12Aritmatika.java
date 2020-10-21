@@ -7,9 +7,12 @@ package latihan12aritmatika;
 
 /**
  *
- * @author Lenovo
+ * @author Muhammad Alvin Rizqi Ramadhan
+ * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Aritmatika
  */
-public class Latihan12Aritmatika {
+public class PBO1010119913Latihan12Aritmatika {
 
     /**
      * @param args the command line arguments
